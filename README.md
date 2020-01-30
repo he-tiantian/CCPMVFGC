@@ -9,4 +9,4 @@ This repository contains the implementation of a graph clustering model, dubbed 
   publisher={IEEE}
 }
 
-Please feel free to contact me via: tiantian.he@outlook.com if you have any question. 
+Notice: This software is permitted to use only for research and non-commercial activities. If you have any question, please feel free to contact us via tiantian.he@outlook.com.
