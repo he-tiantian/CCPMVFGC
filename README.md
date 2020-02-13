@@ -9,4 +9,4 @@ This repository contains the Matlab implementation of a graph clustering model, 
   publisher={IEEE}
 }
 
-Notice: This software is permitted to use only for research and non-commercial activities. If you have any question, please feel free to contact us via tiantian.he@outlook.com.
+Notice: The source code is permitted to use only for research and non-commercial activities. If you have any question, please feel free to contact us via tiantian.he@outlook.com.
