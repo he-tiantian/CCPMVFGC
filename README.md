@@ -9,4 +9,4 @@ This repository contains the Matlab implementation of a graph clustering model, 
   publisher={IEEE}
 }
 
-Notice: The source code is permitted to use only for research and non-commercial activities. If you have any question, please feel free to contact us via tiantian.he@outlook.com.
+Notice: The source code is permitted to use only for research and non-commercial activities. If you have any question, please feel free to contact us via tiantian.he@outlook.com. The source code provided here also can be used for the demonstration of the Technology disclosure, "Factorizing multi-view contextual correlations for social segmentation," which is supported by the research project AISG-RP-2018-004. 
